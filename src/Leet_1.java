@@ -7,7 +7,7 @@ public class Leet_1 {
         char ch='a';
         char ch1='\u0061';
         char ch2=97;
-        System.out.print("My values are = "+ch+ch1+ch2);
+        System.out.print("My values are =  "+ch+ch1+ch2);
 
 
 
