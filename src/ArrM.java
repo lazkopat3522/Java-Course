@@ -8,7 +8,7 @@ public class ArrM {
         int b = sc.nextInt();
         int c = sc.nextInt();
         int d = sc.nextInt();
-        int[] ar = new int[n1];
+        int[] ar = new int[n];
         int cl=0;
         int dep = 0;
         for (int i = 0; i < n; i++) {
